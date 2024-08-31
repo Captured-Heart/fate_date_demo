@@ -38,14 +38,17 @@ fvm install
 
 # Key Features
 
-1. Google Maps:
+1. Search:
 
-   - Arranging markers on the map to show the location of the user.
-   - Added a dark mode skin to the Google map
+   - Make a query by either searching the "restaurants" or "cuisine" name
 
-2. Flutter Animations:
+2. List:
 
-   - Animated widgets according to the design on Dribbble. [Dribble link](https://dribbble.com/shots/23780608-Real-Estate-App)
+   - Displayed a list of restaurants from a data (List of Map<String, dynamic>) provided in the documentation  [Json link](drive.google.com/file/d/1uN_gk2oJ5F4JMAsbjThTmER3LffulsZ2/view?usp=sharing)
+  
+3. Theme mode
+   
+   - Light and dark mode feature available
 
 ## UI Shots
 
@@ -66,7 +69,3 @@ fvm install
 
 - [flutter_riverpod](https://pub.dev/packages/flutter_riverpod): A reactive caching and data-binding framework. Riverpod makes working with asynchronous code a breeze.
 
-- [animated_flip_counter](https://pub.dev/packages/animated_flip_counter):An implicit animation widget that flips from one number to another.
-- [auto_size_text](https://pub.dev/packages/auto_size_text): Flutter widget that automatically resizes text to fit perfectly within its bounds.
-- [flutter_animate](https://pub.dev/packages/flutter_animate):A performant library that makes it simple to add almost any kind of animated effect in Flutter.
-- [flutter_svg](https://pub.dev/packages/flutter_svg):Draw SVG files using Flutter.
