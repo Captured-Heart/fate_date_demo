@@ -56,10 +56,15 @@ fvm install
   <table>
     <tr>
       <td style="text-align: center">
-        <img src="screenshots/home.png" width="800" />
+        <img src="screenshots/home_light.png" width="800" />
       </td>
       <td style="text-align: center">
-        <img src="screenshots/maps.png" width="800" />
+        <img src="screenshots/login_light.png" width="800" />
+      </td>
+      <td style="text-align: center">
+        <img src="screenshots/home_dark.png" width="800" />
+      </td><td style="text-align: center">
+        <img src="screenshots/login_dark.png" width="800" />
       </td>
     </tr>
   </table>
